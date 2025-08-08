@@ -1,18 +1,15 @@
 {
     "name":"VMT Material Converter",
     "id":"com.naf.vmtconverter",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://5nafprodude.github.io/Source-to-Unity-Material-Converter./source.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"Naf"
     },
     "description":"A Unity Editor tool for converting Source Engine VMT materials and VTF textures to Unity's standard format.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/5nafprodude/Source-to-Unity-Material-Converter./tree/main",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
     "githubRepos":[
         "vrchat-community/clientsim"
     ],
